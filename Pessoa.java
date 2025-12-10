@@ -1,3 +1,3 @@
-public class Pessoa{
-    int cpf;
+public class Pessoa {
+    
 }
